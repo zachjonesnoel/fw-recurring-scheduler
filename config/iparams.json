@@ -1,0 +1,26 @@
+{
+    "daily_scheduler": {
+        "display_name": "Daily scheduler name",
+        "description": "Please enter the name for daily schedule event",
+        "type": "text",
+        "required": true
+    },
+    "two_scheduler": {
+        "display_name": "Two day scheduler name",
+        "description": "Please enter the name for two day schedule event",
+        "type": "text",
+        "required": true
+    },
+    "three_scheduler": {
+        "display_name": "Three day scheduler name",
+        "description": "Please enter the name for three day schedule event",
+        "type": "text",
+        "required": true
+    },
+    "five_scheduler": {
+        "display_name": "Five day scheduler name",
+        "description": "Please enter the name for five day schedule event",
+        "type": "text",
+        "required": true
+    }
+}

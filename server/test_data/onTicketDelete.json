@@ -1,0 +1,17 @@
+{
+  "region": "AUS",
+  "data": {
+    "ticket": {
+      "model_id": 510
+    },
+    "actor": {
+      "id": 22,
+      "name": "Rachel",
+      "email": "rachel@freshdesk.com"
+    }
+  },
+  "account_id": "13",
+  "domain": "sample.freshdesk.com",
+  "event": "onTicketDelete",
+  "timestamp": 1631943695.8629155
+}
